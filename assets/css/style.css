@@ -13,15 +13,20 @@ body {
 
 .ari-navbar {
     float: right;
-    padding: 20px;
-    margin-right: 10px;
+    padding: 10px;
+    margin-right: 15px;
 }
 
 .ari-navbar a {
     text-decoration: none;
     font-size: 2.2vw;
     color: dimgrey;
-    padding-right: 15px; 
+    padding-right: 10px; 
+}
+
+.ari-navbar a:hover {
+    text-decoration: underline;
+    color: black;
 }
 
 .ari-container {
